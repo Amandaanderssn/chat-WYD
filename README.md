@@ -10,6 +10,8 @@ What are you up to? What's on your mind? With the WYD (/waɪd/) app you can shar
 
 This is the final project for the course Version Control at Grit Academy Malmö in the spring of 2024. The project was completed between Jan 15 - Jan 26.
 
+Visit live project here: https://melsowole.github.io/versioncontrol-group2-finalproject/
+
 ## Contributing
 
 Contributions to the project are greatly appreciated. If you have any suggestions, fork the repo, add your changes, create a pull request and wait for it to be reviewed!
